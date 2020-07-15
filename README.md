@@ -1,6 +1,8 @@
 # coc-cord
 
 An extension of coc to get Discord Rich Presence integration with NeoVim
+
+
 OS: Windows 10
 
 ## Installation
